@@ -1,18 +1,18 @@
 #############################################################
    
-  C code for which we are implementing MIPS code  
+ # C code for which we are implementing MIPS code  
 
-  i=10
-  j=4
+ # i=10
+ # j=4
   
-  if(i==j)
-    ++i
-  else
-    j--
+ # if(i==j)
+ #   ++i
+ # else
+ #   j--
     
-  j+=i  
+ # j+=i  
   
-  printf("%d",j);
+ # printf("%d",j);
     
 ############################################################
 
