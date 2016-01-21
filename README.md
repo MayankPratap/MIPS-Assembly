@@ -9,6 +9,6 @@
   - Downloads MARS simulator from :- ```http://courses.missouristate.edu/KenVollmar/mars/download.htm```
   
   - In a DOS Shell or Ubuntu Terminal :-```Use command "java -jar mars.jar"(without quotes) (Here mars.jar is name of downlaoded file)```
-  - 
+  
   - You are ready to go!!
 
