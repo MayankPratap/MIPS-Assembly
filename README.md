@@ -1,2 +1,5 @@
 # MIPS-Assembly
-Collection of simple programs in Assembly Language
+Collection of my programs in Assembly Language. 
+
+I have just started learning MIPS Assembly Language. 
+I will add more codes as I learn.
