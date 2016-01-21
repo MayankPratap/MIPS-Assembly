@@ -1,28 +1,28 @@
 ###################################################################
 
-    C code of corresponding MIPS code :-
+  #   C code of corresponding MIPS code :-
     
-        i=5
-        j=9
-        k=7
+  #     i=5
+  #     j=9
+  #     k=7
         
-        if((i==j) && (i==k)){
+  #     if((i==j) && (i==k)){
           
-           ++i;
+  #         ++i;
         
-        }
+  #     }
         
-        else{
+  #     else{
            
-           j--;
+  #          j--;
           
-        }
+  #      }
  
-        j=i+k;
+  #      j=i+k;
         
-        printf("%d",i);
-        printf("%d",j);
-        printf("%d",k);
+  #     printf("%d",i);
+  #     printf("%d",j); 
+  #     printf("%d",k);
 
 ###################################################################
 
