@@ -10,6 +10,8 @@
   #     i++;
         
   #     j--;     
+  
+  # printf("%d",j);
  
  ##############################################################  
 
@@ -22,5 +24,5 @@
  li $v0,1      # Loading system call code into register $vo
               # Code for printing integer is 1
 
- move $a0,$s2  # move integer to be printed into $a0: $a0=$s1  
+ move $a0,$s2  # move integer to be printed into $a0: $a0=$s2 
  syscall      # calling Operating system to perform operation
